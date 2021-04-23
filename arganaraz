@@ -1,0 +1,48 @@
+Algoritmo algoritmoAccionesPrimitivas
+	Definir cantidadPlantasVivero Como Entero;
+	cantidadPlantasVivero= 154;
+	Escribir cantidadPlantasVivero;
+	leer cantidadPlantasVivero;
+	Escribir cantidadPlantasVivero;
+	
+	
+	
+	
+	
+	
+FinAlgoritmo
+
+Algoritmo algoritmoAccionesPrimitivas
+	Definir calidadPlantaPremium Como logico;
+	calidadPlantaPremium= verdadero;
+	escribir calidadPlantaPremium;
+	leer calidadPlantaPremium
+	escribir calidadPlantaPremium
+FinAlgoritmo
+
+
+Algoritmo algoritmoAccionesPrimitivas
+	Definir hinchasDeBoca Como real;
+	hinchasDeBoca= 50.1
+	escribir hinchasDeBoca
+	leer hinchasDeBoca
+	escribir hinchasDeBoca
+FinAlgoritmo
+
+
+Algoritmo algoritmoAccionesPrimitivas
+	Definir hinchasDeBoca Como caracter;
+	hinchasDeBoca= "bosteros";
+	escribir hinchasDeBoca;
+	leer hinchasDeBoca;
+	escribir hinchasDeBoca;
+FinAlgoritmo
+
+
+Algoritmo algoritmoAccionesPrimitivas
+	Definir calidadPlantaPremium Como Caracter;
+	calidadPlantaPremium= 'a';
+	escribir calidadPlantaPremium;
+	leer calidadPlantaPremium
+	escribir calidadPlantaPremium
+FinAlgoritmo
